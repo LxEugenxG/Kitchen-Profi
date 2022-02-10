@@ -3,5 +3,7 @@
 ## About
 das ist mein erster projekt auf GitHub
 
-Bronze 3 loser
-test1
+wunderschönen guten tag
+
+test
+
